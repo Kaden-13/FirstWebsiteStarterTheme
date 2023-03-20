@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["David Darnes"]
   spec.email         = ["me@daviddarnes.com"]
 
-  spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
+  spec.summary       = %q{Class CS 1030}
   spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
   spec.homepage      = "https://alembic.darn.es"
   spec.license       = "MIT"
